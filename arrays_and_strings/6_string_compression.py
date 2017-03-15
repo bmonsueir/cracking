@@ -1,0 +1,1 @@
+# return comressed string if possible otherwise original 

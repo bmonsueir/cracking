@@ -1,0 +1,1 @@
+# zero a matrix's row and column if a  zero is in it
